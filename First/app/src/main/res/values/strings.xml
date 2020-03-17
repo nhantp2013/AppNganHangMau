@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Ngân hàng máu </string>
+    <array name="gender">
+        <item>Nam</item>
+        <item>Nữ</item>
+    </array>
+    <array name="Blood_Group">
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>O+</item>
+        <item>O-</item>
+    </array>
+    <string name="male_">Nếu bạn là nam, bạn phải: \nKhỏe mạnh và cảm thấy khỏe \nÍt nhất là 17 tuổi  \nÍt nhất 5 ft 1 inch \nCân nặng ít nhất 130 lbs.</string>
+    <string name="female_">Nếu bạn là nữ, bạn phải: \nKhỏe mạnh và cảm thấy khỏe \nÍt nhất là 17 tuổi  \nÍt nhất 5 ft 5 inch \nCân nặng ít nhất 150 lbs.</string>
+    <string name="info_">Hiến máu là cứu mạng. Máu của bạn hiến cho là cứu cánh trong trường hợp khẩn cấp và cho những người cần điều trị lâu dài. Nhiều người sẽ không còn sống ngày hôm nay nếu những người hiến máu nhân đạo không hiến tặng cho máu của họ. \nTại sao chúng tôi cần bạn để hiến máu? \nChúng tôi cần hơn 6000 lần hiến máu mỗi ngày để điều trị cho những bệnh nhân cần người hiến máu.\nMỗi năm chúng tôi cần khoảng 200000 người hiến mới, vì một số người hiến có thể không còn cho máu nữa. Nhiều người trong độ tuổi từ 17-65 có thể cho máu. Khoảng một nửa số người hiến hiện tại của chúng tôi đã hơn 45 tuổi . Đó là lý do tại sao chúng tôi cần nhiều người trẻ hơn để bắt đầu hiến máu.</string>
+</resources>
